@@ -247,7 +247,7 @@ def lambda_handler(event, context):
                         "imageResponseCard": {
                             "title": "BurgerBuddy",
                             "subtitle": response_card_sub_title,
-                            "imageUrl": "https://burgerbuddybot.s3.amazonaws.com/img/sm_robot.png",
+                            "imageUrl": "YOUR_IMAGE_URL_HERE",
                             "buttons": response_card_buttons
                         }
                     }
